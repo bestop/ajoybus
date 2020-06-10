@@ -1,6 +1,9 @@
 ---
 layout: post
 title: MathStart数学启蒙(1-3辑）高清PDF63本！既学英语又启蒙数学
+categories: 数理思维
+description: 
+keywords: 数学, 绘本
 ---
 
 ![MathStart_JoyBus.TK](/public/MathStart.jpg)  

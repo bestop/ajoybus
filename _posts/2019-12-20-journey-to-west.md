@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Little Fox英文版西游记
+categories: 英语启蒙
+description: 
+keywords: 英语, 动画
 ---
 
 ![JoyBus.TK](/public/xyj.jpg)
