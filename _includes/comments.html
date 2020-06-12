@@ -1,5 +1,5 @@
 {% if page.comments != false %}
-
+  <!--
   {% if site.comments_provider != 'disqus' and site.lazy_load_disqus and site.disqus and site.disqus.username %}
     <a href="#" class="show_disqus_comment" onclick="return false;">Show Disqus Comments</a>
     <div id="disqus_thread"></div>
@@ -40,7 +40,7 @@
       {% if site.disqus and site.disqus.username %}
         {% assign load_disqus = true %}
         <!-- Disqus Protection, see https://github.com/mzlogin/mzlogin.github.io/issues/2 -->
-        {% if site.disqus.username == 'mzlogin' %}
+  <!--       {% if site.disqus.username == 'mzlogin' %}
           {% assign load_disqus = false %}
           {% if site.url contains 'mazhuang.org' %}
             {% assign load_disqus = true %}
@@ -104,8 +104,6 @@
         gitalk.render('gitalk-container');
         </script>
 -->
-  {% endcase %}
-{% endif %}
 <script>
 var idcomments_acct = 'dfea70d641f286f0e055302ca2c24c0c';
 var idcomments_post_id;
@@ -113,3 +111,6 @@ var idcomments_post_url;
 </script>
 <span id="IDCommentsPostTitle" style="display:none"></span>
 <script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
+  {% endcase %}
+{% endif %}
+
