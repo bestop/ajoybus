@@ -1,41 +1,23 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 欢乐巴士
+keywords: 亲子教育, 英语启蒙
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+欢乐巴士，分享欢乐。     
+欢迎来到欢乐巴士亲子社区，亲子经验交流，学习资源分享。    
+愿在宝宝的成长路上，我们共同前行！
 
-仰慕「优雅编码的艺术」。
+![欢乐巴士](/public/jbxc.jpg)    
 
-坚信熟能生巧，努力改变人生。
+### 本站宗旨   
 
-## 联系
-
-<ul>
-{% for website in site.data.social %}
-<li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
-{% endfor %}
-{% if site.url contains 'mazhuang.org' %}
-<li>
-微信公众号：<br />
-<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" />
-</li>
-{% endif %}
-</ul>
-
-
-## Skill Keywords
-
-{% for skill in site.data.skills %}
-### {{ skill.name }}
-<div class="btn-inline">
-{% for keyword in skill.keywords %}
-<button class="btn btn-outline" type="button">{{ keyword }}</button>
-{% endfor %}
-</div>
-{% endfor %}
+欢乐巴士致力于3-12岁儿童通识启蒙教育，涵盖科学、人文、艺术、思维4大学习领域，与万千达人粑麻一起，分享交流亲子启蒙经验，提供优质亲子资源共享。通过探索型跨学科融合学习，让儿童思维宽广，思考深入，成为学以致用，用以促学，学用相长的未来型人才。
+* 儿童发展的身体与大脑、情绪与性格、智力与语言、同伴和社交
+* 儿童教育理念、知识、能力、思维
+* 父母成长的自我认知、动力目标、能力提升、精神成长
+* 家庭关系中的亲子关系、夫妻关系、长辈关系和社会系统

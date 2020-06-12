@@ -26,8 +26,10 @@ keywords: 英语, 绘本
 	<span style="font-size:18px;">&nbsp;</span> 
 </p>
 <p style="background:white;">
-	<span style="font-size:18px;">大家都知道，如今最流行的英语启蒙界的三大体系就是来自台湾的三位大咖，她们分别是廖彩杏、吴敏兰、汪培珽。</span> 
+	<span style="font-size:18px;">大家都知道，如今最流行的英语启蒙界的三大体系就是来自台湾的三位大咖，她们分别是廖彩杏、吴敏兰、汪培珽。</span>     
 </p>
+
+
 <p style="background:white;">
 	<span style="font-size:18px;">&nbsp;</span> 
 </p>
