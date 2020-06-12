@@ -1,4 +1,3 @@
- <!--
 {% if page.comments != false %}
 
   {% if site.comments_provider != 'disqus' and site.lazy_load_disqus and site.disqus and site.disqus.username %}
@@ -41,7 +40,6 @@
       {% if site.disqus and site.disqus.username %}
         {% assign load_disqus = true %}
         <!-- Disqus Protection, see https://github.com/mzlogin/mzlogin.github.io/issues/2 -->
-<!--
         {% if site.disqus.username == 'mzlogin' %}
           {% assign load_disqus = false %}
           {% if site.url contains 'mazhuang.org' %}
@@ -72,7 +70,7 @@
           <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
         {% endif %}
       {% endif %}
-    {% when 'gitment' %}
+<!--     {% when 'gitment' %}
         <div id="container"></div>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/imsun.github.io/gitment/style/default.css">
         <script src="https://cdn.jsdelivr.net/gh/imsun.github.io/gitment/dist/gitment.browser.js"></script>
@@ -105,9 +103,9 @@
         });
         gitalk.render('gitalk-container');
         </script>
+-->
   {% endcase %}
 {% endif %}
--->
 <script>
 var idcomments_acct = 'dfea70d641f286f0e055302ca2c24c0c';
 var idcomments_post_id;
