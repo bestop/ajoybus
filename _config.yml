@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://joybus.tk
+url: https://joybus.tk
 date_format: "ordinal"
 title: 欢乐巴士
 subtitle: "JoyBus.TK"
@@ -124,11 +124,11 @@ gitment:
         client_id: 0fff1b931dfb67fed5c1
         client_secret: 67cc5d05a9fe6d8b3155136a82f59d74ebfbbbce
 # https://github.com/gitalk/gitalk#install
-# gitalk:
-#    owner: bestop
-#    repo: blog-comments
-#    clientID: 902761aa4b0965b2b1f5
-#    clientSecret: 56d2316c736e221f2aca6f6c17cb1050d3b83afd
+gitalk:
+   owner: bestop
+   repo: blog-comments
+   clientID: 902761aa4b0965b2b1f5
+   clientSecret: 56d2316c736e221f2aca6f6c17cb1050d3b83afd
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
