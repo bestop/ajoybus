@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://a.hijoe.net
+url: http://joybus.tk
 date_format: "ordinal"
 title: 欢乐巴士
 subtitle: "JoyBus.TK"
