@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://a.hijoe.net
+url: http://joybus.tk
 date_format: "ordinal"
 title: 欢乐巴士
 subtitle: "JoyBus.TK"
@@ -118,17 +118,17 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin1
-    repo: blog-comments1
+    owner: bestop
+    repo: gitment
     oauth:
-        client_id: d2e1cbbd2989580764621
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c3757091
+        client_id: c7e446ba4755d4f593d5
+        client_secret: b0559aba16da3cce9ef74675ffa876d399977b3e
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin1
-    repo: blog-comments1
-    clientID: d2e1cbbd2989580764621
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c3757091
+   owner: bestop
+   repo: gitment
+   clientID: c7e446ba4755d4f593d5
+   clientSecret: b0559aba16da3cce9ef74675ffa876d399977b3e
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
