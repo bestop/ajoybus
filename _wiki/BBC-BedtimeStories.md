@@ -43,15 +43,7 @@ topmost: flase
     </div>
   </div>
 </div>
-<div class="image-package" style="margin:0px;text-align:center;font-size:0px;">
-  <div class="image-container" style="margin:0px auto;">
-    <div class="image-container-fill">
-    </div>
-    <div class="image-view">
-      <img class="" src="/public/33280-e599f0952c188db5.webp" style="width:auto;height:auto;" /> 
-    </div>
-  </div>
-</div>
+
 <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
   BBC儿童睡前故事 CBeebies Bedtime Stories》是BBC儿童频道CBeebies出品，献给给孩子们的睡前故事。
 </p>
