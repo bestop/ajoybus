@@ -5,8 +5,7 @@ categories: 英语启蒙
 description: 磨耳朵英语学习入门启蒙儿歌英文歌曲
 keywords: 英语, 动画
 ---
-<p>
-	<div class="image-package " style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:Georgia, &quot;background-color:#FFFFFF;">
+<div class="image-package " style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:Georgia, &quot;background-color:#FFFFFF;">
 	<div class="image-container" style="background-color:transparent;margin:0px auto;">
 		<div class="image-container-fill">
 		</div>
@@ -70,6 +69,4 @@ keywords: 英语, 动画
 		</div>
 	</div>
 </div>
-</p>
-
 
