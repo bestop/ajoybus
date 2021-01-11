@@ -20,7 +20,7 @@ keywords: 英语, 动画
 		<div class="image-container-fill">
 		</div>
 		<div class="image-view">
-			<img class="" src="/public/33280-f373f950c314e385.webp" style="width:auto;height:auto;" /> 
+			<img class="" src="/public/33280-f373f950c314e385.jpg" style="width:auto;height:auto;" /> 
 		</div>
 	</div>
 </div>
@@ -65,7 +65,7 @@ keywords: 英语, 动画
 		<div class="image-container-fill">
 		</div>
 		<div class="image-view">
-			<img class="" src="/public/33280-8539bb646c581458.webp" style="width:auto;height:auto;" /> 
+			<img class="" src="/public/33280-8539bb646c581458.jpg" style="width:auto;height:auto;" /> 
 		</div>
 	</div>
 </div>
@@ -74,7 +74,7 @@ keywords: 英语, 动画
 		<div class="image-container-fill">
 		</div>
 		<div class="image-view">
-			<img class="" src="/public/33280-ff7a7fe6d77952b5.webp" style="width:auto;height:auto;" /> 
+			<img class="" src="/public/33280-ff7a7fe6d77952b5.jpg" style="width:auto;height:auto;" /> 
 		</div>
 	</div>
 </div>
@@ -92,7 +92,7 @@ keywords: 英语, 动画
 		<div class="image-container-fill">
 		</div>
 		<div class="image-view">
-			<img class="" src="/public/33280-940db96dccf4ec6a.webp" style="width:auto;height:auto;" /> 
+			<img class="" src="/public/33280-940db96dccf4ec6a.jpg" style="width:auto;height:auto;" /> 
 		</div>
 	</div>
 </div>

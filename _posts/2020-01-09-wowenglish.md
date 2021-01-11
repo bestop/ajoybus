@@ -10,7 +10,7 @@ keywords: 英语, 动画
 		<div class="image-container-fill">
 		</div>
 		<div class="image-view">
-			<img class="" src="/public/33280-fd5bafc8bd71281f.webp" style="width:auto;height:auto;" /> 
+			<img class="" src="/public/33280-fd5bafc8bd71281f.jpg" style="width:auto;height:auto;" /> 
 		</div>
 	</div>
 </div>
@@ -53,7 +53,7 @@ keywords: 英语, 动画
 		<div class="image-container-fill">
 		</div>
 		<div class="image-view">
-			<img class="" src="/public/33280-5265c7c861681dea.webp" style="width:auto;height:auto;" /> 
+			<img class="" src="/public/33280-5265c7c861681dea.jpg" style="width:auto;height:auto;" /> 
 		</div>
 	</div>
 </div>
@@ -65,7 +65,7 @@ keywords: 英语, 动画
 		<div class="image-container-fill">
 		</div>
 		<div class="image-view">
-			<img class="" src="/public/33280-6eca88b5b344f75c.webp" style="width:auto;height:auto;" />
+			<img class="" src="/public/33280-6eca88b5b344f75c.jpg" style="width:auto;height:auto;" />
 		</div>
 	</div>
 </div>
