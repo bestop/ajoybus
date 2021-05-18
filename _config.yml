@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://hikid.vip
+url: https://hikid.vip
 date_format: "ordinal"
 title: 欢乐巴士
 subtitle: "HiKid.VIP"
