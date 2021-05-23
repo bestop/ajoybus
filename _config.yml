@@ -2,10 +2,10 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://hikid.vip
+url: https://a.hikid.org
 date_format: "ordinal"
 title: 欢乐巴士
-subtitle: "HiKid.VIP"
+subtitle: "HiKid.ORG"
 description: "欢迎来到欢乐巴士亲子社区，亲子经验交流，学习资源分享，愿在宝宝的成长路上，我们共同前行！"
 keywords: 亲子, 启蒙, 教育, 资源,分享
 timezone: Asia/Shanghai
