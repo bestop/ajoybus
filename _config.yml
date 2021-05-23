@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://a.hikid.org
+url: http://a.hikid.org
 date_format: "ordinal"
 title: 欢乐巴士
 subtitle: "HiKid.ORG"
