@@ -7,17 +7,18 @@ hideInList: false
 feature: /post-images/2020-03-01-xiaoxuereading.png
 isTop: false
 ---
-<p>
-	<img src="/images/33280-48d4cbe1d2cdb005.png" alt="图片" /> 
-</p>
-<p>
-	<img src="/images/33280-af0b6ed5b1fed9f1.png" alt="图片" /> 
-</p>
+
 <p>
 	不论选择哪一种养育模式，或者说不论能给孩子哪种养育方式，在阅读这件事上，家长绝不能吝啬。
 </p>
 <p>
 	人民日报曾刊文，提醒父母要鼓励孩子根据兴趣进行大量阅读。
+</p>
+<p>
+	<img src="/images/33280-48d4cbe1d2cdb005.png" alt="图片" /> 
+</p>
+<p>
+	<img src="/images/33280-af0b6ed5b1fed9f1.png" alt="图片" /> 
 </p>
 <p>
 	事实上，对中小学生尤其是小学生而言，“大量阅读”可不是一件课余时间锦上添花的事儿，而是实打实的学习需求！
